@@ -1,2 +1,2 @@
 # ToolPath
-making toolpaths for 3d printing, CNC, etc. 
+making toolpaths for 3D printing and CNC 
